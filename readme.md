@@ -2,7 +2,9 @@
 
 มี array ที่จัดเก็บข้อมูลของหนังสือ
 
-ข้อ 1. ออกแบบ Fuction ที่ใช้ค้นหาหนังสือโดยต้องค้นหาได้จาก Title, Authors, Categories, PublishedDate และ Retrun เป็น Array ของ หนังสือ
+ข้อ 1. ออกแบบ Fuction ที่ใช้ค้นหาหนังสือโดยค้นหาจาก Title, Authors, Categories, PublishedDate และ Retrun เป็น Array ของ หนังสือ
+ตัวอย่าง
+findByTitle(title){} <== ใช้ค้นหาหนังสือตาม Title
 
 **วัตถุประสงค์**
 
